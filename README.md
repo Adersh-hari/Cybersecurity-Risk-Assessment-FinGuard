@@ -38,7 +38,7 @@ This project simulates a cybersecurity risk assessment for a fictional fintech c
 
 | File Name | Description |
 |-----------|-------------|
-| Risk_Assessment_report.pdf | Complete written report outlining risks and recommendations |
+| Risk_Assessment_report.pdf(https://github.com/Adersh-hari/Cybersecurity-Risk-Assessment-FinGuard/blob/main/Risk_Assessment_Report%20(1).pdf) | Complete written report outlining risks and recommendations |
 | Risk_Matrix.xlsx | Risk matrix with threat likelihood, impact scores, and mapped controls |
 | Threat_Model_Diagram.png | Visual threat model for the company's data flow and vulnerabilities |
 | README.md | Overview and explanation of the project |
